@@ -20,7 +20,7 @@
    - Técnicas de engenharia social 
    - Phishing 
 
-- formas de prevenção aos ataques
+- Formas de prevenção aos ataques
    - Política e procedimentos de segurança 
    - Proteção contra ataques de phishing 
    - Plano de treinamento e conscientização 
